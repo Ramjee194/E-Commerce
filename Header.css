@@ -1,0 +1,26 @@
+/* src/Header.css */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #232F3E;
+    color: white;
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.search-bar {
+    padding: 5px;
+    width: 350px;
+}
+
+.nav-links a {
+    color: white;
+    margin: 0 30px;
+    text-decoration: none;
+}
